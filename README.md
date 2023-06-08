@@ -6,12 +6,12 @@ Jobly is a web application built using React that allows users to search and app
 
 Features
 ---
--User authentication and authorization
+- User authentication and authorization
 
--Search for jobs by keyword or company name
+- Search for jobs by keyword or company name
 
--View job details, including salary and equity
+- View job details, including salary and equity
 
--Apply to jobs
+- Apply to jobs
 
--View jobs applied to by the user
+- View jobs applied to by the user
